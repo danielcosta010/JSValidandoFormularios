@@ -3,6 +3,7 @@ export default function ehUmCPF(campo) {
 
   if (validaNumerosRepetidos(cpf) || validaPrimeiroDigito(cpf) || validaSegundoDigito(cpf)) {
     campo.setCustomValidity('Esse cpf não é válido');
+    
 } 
   
 }

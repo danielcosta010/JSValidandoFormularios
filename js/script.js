@@ -22,6 +22,7 @@ formulario.addEventListener("submit", (e) => {
 camposDoFormulario.forEach((campo) => {
     campo.addEventListener("blur", () => verificaCampo(campo));
     campo.addEventListener("invalid", evento => evento.preventDefault())
+    
 })
 
 const tiposDeErro = [
@@ -65,6 +66,7 @@ const mensagens = {
 
 function verificaCampo(campo) {
   let mensagem = "";
+  campo.style.border = '2px solid black'
   campo.setCustomValidity('')
     if (campo.name == "cpf" && campo.value.length >= 11) {
         ehUmCPF(campo);
@@ -75,6 +77,7 @@ function verificaCampo(campo) {
     tiposDeErro.forEach(erro => {
       if(campo.validity[erro]) {
         mensagem = mensagens[campo.name][erro];
+        campo.style.border = '2px solid red'
       }
     })
 
