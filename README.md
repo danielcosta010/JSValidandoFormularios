@@ -2,7 +2,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Js-Validando Formularios**
 | :label: Tecnologias | HTML5, CSS3, javaScript
-| :rocket: URL         | <a href="https://danielcosta010.github.io/portfolio/" target="_blank">Acesse o projeto aqui!</a>
+| :rocket: URL         | <a href="https://danielcosta010.github.io/JSValidandoFormularios/" target="_blank">Acesse o projeto aqui!</a>
 
 
 <p align="center"> <img src="https://github.com/danielcosta010/JSValidandoFormularios/blob/main/img/banner-gato.png#vitrinedev" alt="Banner foto de um Cliente"> </p>
