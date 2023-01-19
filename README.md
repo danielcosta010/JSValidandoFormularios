@@ -6,7 +6,7 @@
 
 
 <p align="center"> <img src="https://github.com/danielcosta010/JSValidandoFormularios/blob/main/img/banner-gato.png#vitrinedev" alt="Banner foto de um Cliente"> </p>
-<p align="center"> <img src="https://github.com/danielcosta010/JSValidandoFormularios/blob/main/img/capa-site.png#vitrinedev" alt="Banner foto de um Cliente"> </p>
+<p align="center"> <img src="https://github.com/danielcosta010/JSValidandoFormularios/blob/main/img/capa-site.png#vitrinedev" alt="Capa do site"> </p>
 <hr>
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
